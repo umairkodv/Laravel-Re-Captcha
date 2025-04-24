@@ -237,7 +237,7 @@
 
         .text-gray-400 {
             --text-opacity: 1;
-            color: #cbd5e0;
+            color: #cbd5e0fb;
             color: rgba(203, 213, 224, var(--text-opacity))
         }
 
@@ -367,19 +367,19 @@
 
             .dark\:bg-gray-900 {
                 --bg-opacity: 1;
-                background-color: #1a202c;
+                background-color: #1a202cef;
                 background-color: rgba(26, 32, 44, var(--bg-opacity))
             }
 
             .dark\:border-gray-700 {
                 --border-opacity: 1;
-                border-color: #4a5568;
+                border-color: #4a5568ea;
                 border-color: rgba(74, 85, 104, var(--border-opacity))
             }
 
             .dark\:text-white {
                 --text-opacity: 1;
-                color: #fff;
+                color: #fffefe;
                 color: rgba(255, 255, 255, var(--text-opacity))
             }
 
